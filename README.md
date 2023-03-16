@@ -1,6 +1,9 @@
-<img align="right" alt="Coding" width="2400" height="300" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 <h1 align="center">Hi 👋, I'm Tòng</h1>
-<h3 align="center">A passionate frontend developer from t Nam</h3>
+<h3 align="center">A passionate frontend developer from Viet Nam</h3>
+
+
+<img align="right" alt="Coding" width="2400" height="300" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
+
 
 <img align="right" alt="Coding" width="500" height="400" src="https://gifimage.net/wp-content/uploads/2017/08/pixel-art-gif-7.gif">
 
