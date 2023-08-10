@@ -4,7 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0982954791tong&label=Profile%20views&color=0e75b6&style=flat" alt="0982954791tong" /> </p>
 <p align="left"> <a href="https://twitter.com/thanhtong2003" target="blank"><img src="https://img.shields.io/twitter/follow/thanhtong2003?logo=twitter&style=for-the-badge" alt="https://twitter.com/thanhtong2003" /></a> </p>
 - 🔭 I’m currently working on **hi**
+
 - 🌱 I’m currently learning **HTML CSS JS**
+
+ 
 - 💬 Ask me about **react**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
