@@ -22,6 +22,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=CaoVoThanhTong&show_icons=true&theme=tokyonight" height="165">
 </p>
 
-![huabin's snake gif](https://github.com/CaoVoThanhTong/CaoVoThanhTong/blob/output/github-contribution-grid-snake.svg)
+![Cao Võ Thanh Tòng's snake gif](https://github.com/CaoVoThanhTong/CaoVoThanhTong/blob/output/github-contribution-grid-snake.svg)
 
 
