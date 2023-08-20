@@ -6,8 +6,7 @@
 - 🔭 I’m currently working on **hi**
 
 - 🌱 I’m currently learning **HTML CSS JS**
-
- 
+- 
 - 💬 Ask me about **react**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
