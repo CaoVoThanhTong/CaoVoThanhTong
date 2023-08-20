@@ -21,12 +21,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=CaoVoThanhTong&show_icons=true&theme=tokyonight" height="165">
 </p>
 
+![Cao Võ Thanh Tòng's snake gif](https://github.com/CaoVoThanhTong/CaoVoThanhTong/blob/output/github-contribution-grid-snake.svg)
+
 <a href="https://github.com/CaoVoThanhTong"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/CaoVoThanhTong">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=CaoVoThanhTong&column=8&theme=gruvbox&no-frame=true"/>
 </a>
-
-
-![Cao Võ Thanh Tòng's snake gif](https://github.com/CaoVoThanhTong/CaoVoThanhTong/blob/output/github-contribution-grid-snake.svg)
-
-
