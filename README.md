@@ -26,4 +26,4 @@
 <a href="https://github.com/CaoVoThanhTong"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/CaoVoThanhTong">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=CaoVoThanhTong&column=8&theme=gruvbox&no-frame=true"/>
-</a>    
+</a>
