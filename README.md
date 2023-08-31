@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tòng</h1>
-<h3 align="center">Con Gà Công Nghiệp(IUH)</h3>
+<h3 align="center">Con Gà Tại Đại Hoc Công Nghiệp(IUH)</h3>
 <img align="right" alt="Coding" width="2400" height="400" src="https://user-images.githubusercontent.com/36126914/154766367-2c3d9c80-3cdc-4790-b15c-7eba5eee9fd2.gif">
 
 <h3 align="left">Connect with me:</h3>
