@@ -1,7 +1,13 @@
-<h1 align="center">Hi 👋, I'm Tòng</h1>
-<h3 align="center">Con Gà Tại Đại Học Công Nghiệp(IUH)</h3>
-<img align="right" alt="Coding" width="2400" height="400" src="https://user-images.githubusercontent.com/36126914/154766367-2c3d9c80-3cdc-4790-b15c-7eba5eee9fd2.gif">
 
+
+<h3 align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=Thanh+Tòng+đẹp+trai+siêu+cấp+vũ+trụ+hehe"></h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h3 align="center">Con Gà Tại Đại Học Công Nghiệp(IUH)</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thanhtong2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/thanhtong2003" height="30" width="40" /></a>
@@ -15,11 +21,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaoVoThanhTong&layout=compact&theme=tokyonight&langs_count=6" height="165">
   <img src="https://github-readme-stats.vercel.app/api?username=CaoVoThanhTong&show_icons=true&theme=tokyonight" height="165">
 </p>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ![Cao Võ Thanh Tòng's snake gif](https://github.com/CaoVoThanhTong/CaoVoThanhTong/blob/output/github-contribution-grid-snake.svg)
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
