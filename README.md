@@ -8,7 +8,7 @@
 <div align="left">
 <h3 align="left">Connect with me:</h3>
 
- <a href="https://app.daily.dev/caovothanhtong"><img src="https://api.daily.dev/devcards/14f05baa4f574e73bd07b323419e0418.png?r=o0j" align="right" width="200" alt="Cao Võ Thanh Tòng's Dev Card"/></a>
+ <a href="https://app.daily.dev/caovothanhtong"><img src="https://api.daily.dev/devcards/14f05baa4f574e73bd07b323419e0418.png?r=cba" align="right" width="200" alt="Cao Võ Thanh Tòng's Dev Card"/></a>
 <p align="left">
 <a href="https://twitter.com/thanhtong2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/thanhtong2003" height="30" width="40" /></a>
 <a href="https://fb.com/caovothanhtong2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/caovothanhtong2003" height="30" width="40" /></a>
