@@ -2,7 +2,7 @@
 
 <h3 align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=Cao+Võ+Thanh+Tòng+coding+from+VietNam"></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<a href="https://2t.id.vn/">Profile</a>
+<a href="https://blog.2t.id.vn/">Profile</a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
